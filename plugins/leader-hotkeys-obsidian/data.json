@@ -1,0 +1,23 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": "E",
+          "shift": true,
+          "alt": true,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "f",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "file-explorer:open"
+    }
+  ]
+}

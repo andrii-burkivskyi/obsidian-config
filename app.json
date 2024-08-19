@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "Images",
+  "newLinkFormat": "absolute",
+  "promptDelete": true,
+  "newFileFolderPath": "Notes"
+}
