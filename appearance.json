@@ -1,7 +1,7 @@
 {
-  "accentColor": "#5c76c7",
-  "interfaceFontFamily": "Cascadia Mono",
+  "accentColor": "#61b1cc",
+  "interfaceFontFamily": "Hack Nerd Font Mono",
   "monospaceFontFamily": "Cascadia Mono,Roboto Mono",
   "cssTheme": "Things",
-  "textFontFamily": "Cascadia Mono"
+  "textFontFamily": "Hack Nerd Font Mono"
 }
