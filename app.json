@@ -4,6 +4,6 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "Images",
   "newLinkFormat": "absolute",
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileFolderPath": "Notes"
 }
