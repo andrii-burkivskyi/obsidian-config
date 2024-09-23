@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/List of Obsidian Commands.md",
+                "file": "Notes/Optimize Keyboard Shortcuts.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/List of Obsidian Commands.md",
+                "file": "Notes/Optimize Keyboard Shortcuts.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/List of Obsidian Commands.md",
+                "file": "Notes/Optimize Keyboard Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/List of Obsidian Commands.md"
+                "file": "Notes/Optimize Keyboard Shortcuts.md"
               }
             }
           }
@@ -165,9 +165,10 @@
   },
   "active": "69d747097bce764f",
   "lastOpenFiles": [
+    "Notes/Investigate is it possible move window to another screen with hotkey.md",
+    "Notes/List of Obsidian Commands.md",
     "Notes/Serotonin.md",
     "Notes/Differences between pleasure and happiness.md",
-    "Notes/List of Obsidian Commands.md",
     "Notes/Untitled.md",
     "Projects.canvas",
     "Notes/2024-08-24.md",
@@ -191,7 +192,6 @@
     "Notes/Pleasure-Motivation.md",
     "Notes/Project Fonts.md",
     "Notes/Project Logo.md",
-    "Notes/@mgsm Module.md",
     "Pasted image 20231123074349.png",
     "Pasted image 20231123074257.png",
     "Images",
